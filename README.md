@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Document Reader
 
 A local Streamlit app for reading and searching PDF files, with optional NVIDIA-powered summaries and question answering. AI responses are grounded in extracted PDF text and include page citations.
@@ -41,3 +42,6 @@ The default NVIDIA model is `meta/llama-3.3-70b-instruct`. To customize it, set 
 ```powershell
 python -m unittest
 ```
+=======
+# AI-study-Assistant
+>>>>>>> f1be7b4a6ac7403548e84ee259c2fe1b6de8c393
