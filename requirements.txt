@@ -1,0 +1,15 @@
+
+streamlit
+python-dotenv
+openai
+pypdf
+
+langchain
+langchain-community
+langchain-text-splitters
+langchain-core
+langchain-qdrant
+langchain-nvidia-ai-endpoints
+
+fastembed
+qdrant-client
